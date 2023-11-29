@@ -4,4 +4,4 @@
 
 ## Console app
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](about:blank)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/seesharprun/codespace-test-python?quickstart=1)
